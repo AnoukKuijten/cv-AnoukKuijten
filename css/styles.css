@@ -10,14 +10,17 @@ body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-family: 'Josefin Sans', sans-serif;
 
-	color: #202030;
+	color: #000000;
 	background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #BAFFE7;
+    background-color: #00C5C7;
+	color: white;
+		display: flex;
+    align-items: center;
 }
 
 .resume-main {
